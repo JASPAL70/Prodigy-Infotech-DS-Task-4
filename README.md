@@ -27,7 +27,7 @@ Analyze and visualize sentiment patterns in social media data to understand **pu
    - ☁️ Word Cloud: Common words in each sentiment.  
 
 ## 🛠️ Technologies Used
-- **Python** 🐍  
+- **Python** 
 - **Pandas** for data handling  
 - **TextBlob** for sentiment analysis  
 - **Matplotlib / Seaborn** for visualizations  
